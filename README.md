@@ -81,7 +81,7 @@ Since you have strong expertise in IoT, position IoT not as complex hardware eng
 * **Cold-Chain Vaccine Storage Monitoring:** Automated temperature sensors (or OpenMeteo/OpenWeather API feeds) streaming ambient temperature data into Google Sheets to trigger alerts if temperatures drift outside safe ranges (2°C - 8°C).  
 * **Campus Environmental Health Surveillance:** Environmental sensors pushing real-time Air Quality Index (AQI) and heat stress parameters directly into the central public health dashboard.  
 
-## 📅 Streamlined Workshop Flow Strategy for August 8, 2026
+## 📅 Workshop August 8, 2026
 * **Morning (Data Pipeline & Capture):** Google Forms + Apps Script Geolocation → AppSheet No-Code Mobile Capture → IoT Data Ingestion into Google Sheets.  
 * **Mid-Day (Analytics & Visualization):** Looker Studio Dashboard setup using the **4P Gemini Master Prompt Template** to build formulas, filters, and image features effortlessly.  
 * **Afternoon (AI Assistant & Deployment):** Gemini API Chatbot setup + embedding everything (Dashboard + Chatbot) into a Google Sites Public Health Portal.
